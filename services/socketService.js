@@ -1,0 +1,5 @@
+class SocketService {
+    init(io) {
+        
+    }
+}
